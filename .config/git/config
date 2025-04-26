@@ -1,4 +1,3 @@
-
 [core]
     editor = nvim
 
@@ -7,8 +6,3 @@
 
 [merge]
     tool = vimdiff2
-
-# uh, keep the username and mail in home gitconfig,
-# so we don't push it to git
-[include]
-    path = ~/.gitconfig
