@@ -6,3 +6,6 @@
 
 [merge]
     tool = vimdiff2
+
+[init]
+    defaultBranch = master
