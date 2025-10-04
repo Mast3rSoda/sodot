@@ -1,0 +1,8 @@
+[Desktop Entry]
+Type=Application
+Version=v0.0.1
+Name=Sodot (uwsm-managed)
+Comment=spell i cup
+Exec=uwsm start -- hyprland.desktop
+TryExec=uwsm
+DesktopNames=Hyprland
