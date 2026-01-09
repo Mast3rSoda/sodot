@@ -1,0 +1,3 @@
+lout() { 
+    loginctl terminate-user ""
+}

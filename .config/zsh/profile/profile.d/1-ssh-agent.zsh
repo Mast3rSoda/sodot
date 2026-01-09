@@ -1,0 +1,1 @@
+/home/soda/.config/zsh/profile/profile.d/.src/1-ssh-agent.zsh
