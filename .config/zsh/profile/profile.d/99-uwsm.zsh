@@ -1,1 +1,1 @@
-/home/soda/.config/zsh/profile/profile.d/.src/99-uwsm.zsh
+.src/99-uwsm.zsh

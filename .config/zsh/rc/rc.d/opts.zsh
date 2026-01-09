@@ -1,1 +1,1 @@
-/home/soda/.config/zsh/rc/rc.d/.src/opts.zsh
+.src/opts.zsh
